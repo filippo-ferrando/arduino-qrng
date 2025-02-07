@@ -1,2 +1,2 @@
 # arduino-qrng
-"Quantum" random noise generator with an Arduino 1
+"Quantum" random number generator with an Arduino 1
